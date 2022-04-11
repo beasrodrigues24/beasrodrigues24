@@ -1,7 +1,10 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning Software Engineering at Minho University (3rd year student)
-- 📫 How to reach me: through Discord bsr24#8186
+- 📫 How to reach me: 
+    * Discord  => bsr24#8186
+    * Email    => beatrizsilvarodrigues12@gmail.com
+    * [LinkedIn](https://www.linkedin.com/in/beasrodrigues24)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beasrodrigues24&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
