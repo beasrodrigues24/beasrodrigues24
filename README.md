@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Software Engineering at Minho University (3rd year student)
+- 🌱 After finishing my Bachelor's, I’m now doing my Master's in Software Engineering at Minho University (1st year)
 - 📫 How to reach me: 
     * Discord  => bsr24#8186
     * Email    => beatrizsilvarodrigues12@gmail.com
