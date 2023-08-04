@@ -1,6 +1,6 @@
 ## About Me ⚡
 - 👋 I'm Beatriz Rodrigues 🇵🇹.
-- 📚 I have a bachelor's degree in Software Engineering and I'm starting my master's currently.
+- 📚 I have a bachelor's degree in Software Engineering and I'm finishing my master's (currently writing my thesis).
 - 📫 To contact me, you can add me on Discord: bsr24#8186, or use one of the following options:
 
 [![LinkedIn badge](https://img.shields.io/badge/-beasrodrigues24-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/beasrodrigues24)
@@ -17,6 +17,9 @@
 - C
 - Java
 - Javascript
+- React
+- Node.js
+- Next.js
 - Ruby on Rails
 - Haskell
 - Python
@@ -25,6 +28,11 @@
 - SQL
 - Prolog
 - Assembly
+- TLA+
+- Alloy
+- Why3
+- Frama-C
+- UPPAAL
 
 <!--
 **beasrodrigues24/beasrodrigues24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
